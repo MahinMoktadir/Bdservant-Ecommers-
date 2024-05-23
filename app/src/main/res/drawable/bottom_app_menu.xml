@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/action_profile"
+            android:icon="@drawable/ic_user_profile"
+            android:title="Profile" />
+    </menu>
+
+</selector>
